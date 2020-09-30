@@ -8,10 +8,10 @@ pip install bs4
 ```
 ### Run:
 ```
-python quora-scraper.py
+python quora_scraper.py
 ```
 
 ### To save into text file:  
 ```
-python quora-scraper.py <username> > upvoted_answers.txt
+python quora_scraper.py <username> > upvoted_answers.txt
 ```
