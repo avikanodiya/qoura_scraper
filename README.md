@@ -1,1 +1,0 @@
-# qoura_scraper
